@@ -225,19 +225,8 @@ h3 {
     padding-top: 25px;
 }
 
-.line {
-    color: brown;
-    padding-bottom: 100px;
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
-    padding-left: 600px;
-    width: fit-content;
-}
-
 .box {
     position: absolute;
-
-
     width: 45%;
     height: 15%;
     margin-left: 17%;
